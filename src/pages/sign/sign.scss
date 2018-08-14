@@ -1,0 +1,105 @@
+page-sign {
+.bg{
+    background:	#D9D7D8 ;
+}
+
+img{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-top: 5%;
+
+}
+
+.signup{
+    padding-top: 1%;
+    letter-spacing: 2px;
+    color: rgb(45, 48, 54);
+    font-size: 18px;
+}
+
+.free{
+    letter-spacing: 2px;
+    color: rgba(89, 92, 97, 0.904);
+    font-size: 12px;
+    padding-top: 5%;
+}
+
+.limited{
+    letter-spacing: 2px;
+    color: rgba(89, 92, 97, 0.514);
+    font-size: 12px;  
+    font-family: Arial, Helvetica, sans-serif; 
+
+}
+
+.top{
+ 
+    height: 50%;
+}
+
+.form{
+ 
+    height: 50%;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+  
+    
+}
+
+.frm{
+    background: rgba(255, 255, 255, 0.274);
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px;
+    opacity: 0.6;
+}
+.item{
+    padding-top: 7%;
+  border-radius: 0px;
+    opacity: 0.6;
+    box-shadow: 1px 1px 1px 1px rgba(145, 141, 141, 0.267);
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.button{
+    width: 100%;
+    height: 60px;
+    color: grey;
+    letter-spacing: 2px;
+    margin-left: 0;
+    border: 1px solid #E5E3E4;
+    border-radius: 5px; 
+
+    
+ 
+}
+.footer{
+    background:#4C5769;
+    height: 5%;
+}
+
+.btn{
+    
+    width: 40%; 
+    margin-top:  -40px;
+    background:rgb(51, 60, 75);
+  
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+    height: 100%;
+    align-content: center;
+    
+}
+.premium{
+    font-size: 15px;
+    color: rgb(155, 161, 170);
+    letter-spacing: 1px;
+    padding-top: 15px;
+
+}
+
+}

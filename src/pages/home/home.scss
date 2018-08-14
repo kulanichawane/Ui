@@ -1,0 +1,70 @@
+page-home {
+.bg {
+    background: url('../../assets/imgs/bg.JPG');
+    background-position: center;
+    background-size: cover; 
+
+}
+.background{
+    display: inline;
+
+}
+.top{
+  align-content: center;
+    height: 50%;
+width: 100%;
+
+margin: auto;
+background: #D9D7D8;
+}
+
+.bottom{
+  
+    height: 50%;
+background:#4C5769;
+
+}
+.signup{
+    padding-top: 1%;
+    letter-spacing: 2px;
+    color: rgb(45, 48, 54);
+    font-size: 18px;
+    
+}
+.free{
+    padding-top: 5%;
+    letter-spacing: 2px;
+    color: rgba(89, 92, 97, 0.904);
+    font-size: 12px;
+
+}
+.pre{
+    padding-top: 5%;
+    letter-spacing: 2px;
+    color: rgba(230, 235, 243, 0.438);
+    font-size: 12px;
+
+}
+
+.limited{
+    padding-top: 0%;
+    letter-spacing: 2px;
+    color: rgba(89, 92, 97, 0.514);
+    font-size: 12px;  
+    font-family: Arial, Helvetica, sans-serif;
+}
+.full{
+    padding-top: 0%;
+    letter-spacing: 2px;
+    color: rgba(230, 235, 243, 0.438);
+    font-size: 12px;  
+    font-family: Arial, Helvetica, sans-serif;
+}
+img{
+
+    margin-top: 5%;
+    display: block;
+margin-left: auto;
+margin-right: auto;
+}
+}
